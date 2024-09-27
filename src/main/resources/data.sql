@@ -1,0 +1,1 @@
+insert into Usuario(nome,email,senha,nif,telefone,data_Nascimento,sexo,pacote) values('Mbala','mbalaleta@gmail.com','$2a$10$f4.xAQ45MJIJBsHWvbV7j.XbXmZYUOKXGPw0gbvYojg5L6OIQEBeu','12gryye','93465748','1900-03-04',1,1)
